@@ -24,6 +24,5 @@ public class Main {
             Integer number = iterator.next() + 1;
             System.out.print(number + "\t");
         }
-
     }
 }
